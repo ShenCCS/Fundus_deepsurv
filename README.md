@@ -16,6 +16,7 @@
 
 ## deepsurv dataset preprocessing
 > Using XGBoost prediction then add other labels making deepsurv dataset
+> 
 > Route: /john/network/RETFound/RETFound_MAE-main/Fundus_deepsurv/deepsurv
 * code: deepsurvdata.ipynb
 
