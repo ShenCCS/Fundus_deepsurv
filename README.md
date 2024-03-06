@@ -3,7 +3,7 @@
 >
 ## Enviroment
 * python 3.7.5 
-* conda env : retfound
+* conda env : retfound & deepsurv
 * Model execution environment : Nvidia 3080Ti
 
 ## Data Preprocessing
